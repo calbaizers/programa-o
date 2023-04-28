@@ -1,10 +1,36 @@
+*{
+    margin: 1%;
+    padding: 0%;
+}
 body {
     background-color: #DF3C3C;
-    color:white;
+    color:rgb(255, 255, 255);
+    background-image: url("livros.png");
 }
 .paragrafo{
     color: rgb(255, 255, 255);
-    font-style: normal;
-    font-size: 25px;
+
+    font-size: 30px;
     font-weight: normal;
+    justify-content: center;
+    display: flex ;
+    align-items: center;
+    font-style: initial ;
+}
+.imagem-cabecalho{
+    width:100%;
+}
+h1 {
+    font-size: 40px;
+    background-color: #551313;
+    justify-content: center;
+    display: flex ;
+    align-items: center;
+    
+}
+.nomes {
+    font-size: 30px;
+    justify-content: center;
+    display: flex ;
+    align-items: center;
 }
