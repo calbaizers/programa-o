@@ -6,16 +6,16 @@ body {
     background-color: #DF3C3C;
     color:rgb(255, 255, 255);
     background-image: url("livros.png");
+    
 }
 .paragrafo{
     color: rgb(255, 255, 255);
-
-    font-size: 30px;
+    font-size: 25px;
     font-weight: normal;
     justify-content: center;
     display: flex ;
-    align-items: center;
     font-style: initial ;
+
 }
 .imagem-cabecalho{
     width:100%;
@@ -26,11 +26,17 @@ h1 {
     justify-content: center;
     display: flex ;
     align-items: center;
-    
+    margin: 0%
 }
 .nomes {
     font-size: 30px;
     justify-content: center;
     display: flex ;
     align-items: center;
+    opacity: 90%;
+}
+.livro1 {
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size : 50px   50px;
 }
