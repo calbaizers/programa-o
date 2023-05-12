@@ -10,7 +10,7 @@ body {
 }
 .paragrafo{
     color: rgb(255, 255, 255);
-    font-size: 25px;
+    font-size: 30px;
     font-weight: normal;
     justify-content: center;
     display: flex ;
@@ -40,3 +40,23 @@ h1 {
     background-repeat: no-repeat;
     background-size : 50px   50px;
 }
+.livro2{
+    width: 323px;;
+    height: 498px;
+}
+.divisao1{
+    font-size: 25px;
+    font-weight: normal;
+    justify-content: center;
+    display: inline-flex ;
+}
+.divisao2{
+    font-size: 25px;
+    font-weight: normal;
+    justify-content: center;
+    display: inline;
+}
+
+
+
+
